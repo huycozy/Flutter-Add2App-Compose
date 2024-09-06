@@ -13,7 +13,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         maven {
-            url  = uri("/Users/huynq/Documents/NEVERCODE.IO/RepoduceProjects/FlutterAdd2AppAndroidNative-AS2023.1.1/flutter_module/build/host/outputs/repo")
+            url  = uri("/Users/huynq/Documents/NEVERCODE.IO/RepoduceProjects/Flutter-add-to-app-native-compose/flutter_module/build/host/outputs/repo")
         }
         maven {
             url = uri("$storageUrl/download.flutter.io")
